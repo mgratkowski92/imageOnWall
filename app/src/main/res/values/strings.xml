@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image On Wall</string>
+
+    <string name="ar_core_supported">Your devices support ArCore</string>
+    <string name="ar_core_not_supported">Your devices NOT support ArCore</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="searching_for_surfaces">Searching for surfaces...</string>
+</resources>
